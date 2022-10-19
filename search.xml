@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Terminator的安装及简单美化</title>
-    <url>/2022/10/18/Terminator%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E7%AE%80%E5%8D%95%E7%BE%8E%E5%8C%96-1/</url>
+    <url>/2022/10/18/Terminator%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E7%AE%80%E5%8D%95%E7%BE%8E%E5%8C%96/</url>
     <content><![CDATA[<h1 id="Terminator的安装及简单美化"><a href="#Terminator的安装及简单美化" class="headerlink" title="Terminator的安装及简单美化"></a>Terminator的安装及简单美化</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>使用linux终端时，我常因为默认的终端无法很好地同时显示代码和输出而烦躁，虽说可以通过小窗口和一些命令实现，但这并不太符合我的操作习惯。<br>自带快捷键分屏功能的<code>Terminator</code>可以很方便地解决这个问题，提高效率；同时，它还自带诸如自定义主题字体、标签切换等功能，因此我决定将之分享给大家。<br>本文基于<code>Ubuntu 20.04</code>环境下撰写。</p>
 <h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>Terminator的安装很简单，打开终端输入以下命令,按照指引进行安装。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">sudo apt-get install terminator</span><br></pre></td></tr></table></figure>
