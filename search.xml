@@ -9,10 +9,10 @@
 <p>输入以下命令检查是否安装成功。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">terminator -v</span><br></pre></td></tr></table></figure>
 <p>一般而言默认终端会被自动设为Terminator，直接使用即可。</p>
-<h2 id="简单美化"><a href="#简单美化" class="headerlink" title="简单美化"></a>简单美化</h2><p>Terminator的默认界面应该是以下风格，难以称得上美观。<br><img src="https://github.com/EVenheAven/image/blob/main/1.png?raw=true" alt="1"><br>右键选择<code>配置文件首选项</code>,选择<code>配置</code>，根据个人喜好更改即可。</p>
-<p><img src="https://github.com/EVenheAven/image/blob/main/2.png?raw=true" alt="2"></p>
+<h2 id="简单美化"><a href="#简单美化" class="headerlink" title="简单美化"></a>简单美化</h2><p>Terminator的默认界面应该是以下风格，难以称得上美观。<br><img src="https://pic.jitudisk.com/public/2022/10/19/8ccb26d24a7cd.png" alt="1"><br>右键选择<code>配置文件首选项</code>,选择<code>配置</code>，根据个人喜好更改即可。</p>
+<p><img src="https://pic.jitudisk.com/public/2022/10/19/a60628f2d4ed6.png" alt="2"></p>
 <p>我个人的配置如下，可以作为参考。</p>
-<p><img src="https://github.com/EVenheAven/image/blob/main/3.png?raw=true" alt="3"><br><img src="https://github.com/EVenheAven/image/blob/main/4.png?raw=true" alt="4"><br><img src="https://github.com/EVenheAven/image/blob/main/5.png?raw=true" alt="5"></p>
+<p><img src="https://pic.jitudisk.com/public/2022/10/19/faa54fe285dc7.png" alt="3"><br><img src="https://pic.jitudisk.com/public/2022/10/19/080fe36c62b91.png" alt="4"><br><img src="https://pic.jitudisk.com/public/2022/10/19/8d2f27d95567b.png" alt="5"></p>
 <p>此外，也可以通过修改config文件等方式进行进一步的更改，有兴趣的朋友可以自己探索。</p>
 <h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h2><table>
 <thead>
@@ -59,7 +59,7 @@
 </tr>
 </tbody></table>
 <p>更多的快捷键可以在<code>配置文件首选项</code>中的<code>快捷键</code>处查看和更改</p>
-<h2 id="效果演示"><a href="#效果演示" class="headerlink" title="效果演示"></a>效果演示</h2><p><img src="https://github.com/EVenheAven/image/blob/main/6.png?raw=true" alt="6"></p>
+<h2 id="效果演示"><a href="#效果演示" class="headerlink" title="效果演示"></a>效果演示</h2><p><img src="https://pic.jitudisk.com/public/2022/10/19/3ec38d942c65d.png" alt="6"></p>
 ]]></content>
       <categories>
         <category>linux</category>
